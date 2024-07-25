@@ -21,7 +21,8 @@ This repository contains a simple Ethereum oracle that fetches data from an exte
 ## Getting Started
 
 ### 0. Setting Up The Data Provider
-To Setup the dataprovider you need to follow the instructions on the [`Football Data Provider/`](https://github.com/AnasElii/Ethers_Oracle/tree/master/Football_Data_Provider) directory.
+To Setup the dataprovider you need to follow the instructions on the [`Football Data Provider/`](https://github.com/AnasElii/Ethers_Oracle/tree/master/Football%20Data%20Provider
+) directory.
 
 ### 1. Clone the Repository
 
